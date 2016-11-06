@@ -10,7 +10,7 @@ gradlew installDist
 ```
 This command creates a distribution in *./build/install* with some start scripts.
 ## How to test
-There are two Excel documents **Mappe1.xls** and **Mappe2.xls** in the *./src/test/resources/* for testing. Check out the *./build.gradle* file for the arguments applied when running
+There are two Excel documents **Mappe1.xlsx** and **Mappe2.xlsx** in the *./src/test/resources/* for testing. Check out the *./build.gradle* file for the arguments applied when running
 ```
 gradlew run
 ```
